@@ -85,7 +85,5 @@ function calcularPerimetroTriangulo(){
     alert(perimetro);
 }
 
-function calcularAreaTriangulo(){
-    
-}
+
 
