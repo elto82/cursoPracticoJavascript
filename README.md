@@ -16,3 +16,10 @@
 - implementar las formulas en javascript
 - crear funciones
 - integrar js con html
+
+## Taller #3 porcentajes y descuentos.
+
+- definir las formulas.
+- implementar las formulas en javascript
+- crear funciones
+- integrar js con html
